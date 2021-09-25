@@ -1,0 +1,21 @@
+.logo{
+    height: 50px;
+    display : block;
+    margin:15px auto;
+}
+
+.header nav {
+    background: black;
+}
+
+.header a {
+    text-decoration : none;
+    margin:20px;
+    color : whitesmoke;
+    line-height: 40px;
+    padding: 8px;
+}
+
+.header a:hover{
+    background-color: grey;
+}
